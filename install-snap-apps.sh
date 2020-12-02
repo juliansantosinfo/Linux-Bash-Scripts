@@ -25,6 +25,7 @@ sudo snap install phpstorm --classic
 sudo snap install postman
 sudo snap install pycharm-community --classic
 sudo snap install remmina
+sudo snap install sqlitebrowser
 sudo snap install sublime-text --classic
 sudo snap install vlc
 sudo snap install webstorm --classic

@@ -4,6 +4,14 @@ sudo apt update
 
 sudo apt upgrade -y
 
+sudo apt install -y pass
+
+sudo apt install -y subversion
+
+sudo apt install -y ncdu
+
+sudo apt install -y baobab
+
 sudo apt install -y htop
 
 sudo apt install -y menulibre
