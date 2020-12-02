@@ -12,6 +12,8 @@ sudo apt install -y ncdu
 
 sudo apt install -y baobab
 
+sudo apt install -y docker.io docker-compose docker-doc
+
 sudo apt install -y htop
 
 sudo apt install -y menulibre
